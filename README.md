@@ -7,8 +7,13 @@ For scenarios where you are using multiple monitors of different resolutions, th
 ## To use
 Simply download the exe and run. The application is wrapped to include python runtime and streamlit. Simply provide a blank email on first launch.
 
-Application -
+### Application
 <img width="1377" height="1542" alt="image" src="https://github.com/user-attachments/assets/0d5c0695-101f-45ba-96ca-44e62525a9fa" />
 
-Output -
+### Output
 <img width="2316" height="1950" alt="image" src="https://github.com/user-attachments/assets/f83840af-067d-4238-b240-386335f4e1de" />
+
+### Badges
+![Python](https://img.shields.io/badge/python-3.9+-blue)
+![Streamlit](https://img.shields.io/badge/built%20with-Streamlit-orange)
+![License](https://img.shields.io/github/license/send-me-a-ticket/multi-screen-wallpaper-generator)
