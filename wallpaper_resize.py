@@ -349,7 +349,7 @@ if st.button("Generate Wallpaper ZIP") and uploaded_images:
 
     st.download_button("📁 Download ZIP", data=zip_buffer.getvalue(), file_name="wallpapers.zip", mime="application/zip")
 
-# Add helpful instructions
+# Add author notes
 st.markdown("""
 ### Created by Gaurav Poudel (@send_me_a_ticket)
 """)
