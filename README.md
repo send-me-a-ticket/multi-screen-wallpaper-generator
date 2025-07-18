@@ -9,6 +9,10 @@ Simply download the exe and run. The application is wrapped to include python ru
 
 [Download Here](https://github.com/send-me-a-ticket/multi-screen-wallpaper-generator/releases/tag/pre-release)
 
+Linux/MacOS users may download the script and run with Python. Make sure to install numpy, streamlit and pillow:
+
+```pip install numpy streamlit pillow```
+
 ### Application
 <img width="1377" height="1542" alt="image" src="https://github.com/user-attachments/assets/0d5c0695-101f-45ba-96ca-44e62525a9fa" />
 
