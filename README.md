@@ -3,22 +3,23 @@ Generates single wallpaper image for multiple screen sizes & layouts.
 
 For scenarios where you are using multiple monitors of different resolutions, and sizes, this tool can instantly generate wallpapers that look seamless and beautiful !
 
-## To use
-### Windows Users -
+## To Use
+### Windows Users
 Simply download the exe and run. The windows binary is wrapped with python runtime and streamlit. You may provide a blank email on first launch (just press enter).
 
 [Download Here](https://github.com/send-me-a-ticket/multi-screen-wallpaper-generator/releases/tag/pre-release)
 
-### Linux/MacOS users -
+### Linux/MacOS Users
 Install Python (3.9+). Make sure to install dependencies - numpy, streamlit and pillow:
 
 ```pip install numpy streamlit pillow```
+
 ```streamlit run wallpaper_resize.py```
 
-### Application
+### Application Preview
 <img width="1377" height="1542" alt="image" src="https://github.com/user-attachments/assets/0d5c0695-101f-45ba-96ca-44e62525a9fa" />
 
-### Output
+### Output Example
 <img width="2316" height="1950" alt="image" src="https://github.com/user-attachments/assets/f83840af-067d-4238-b240-386335f4e1de" />
 
 ### Badges
