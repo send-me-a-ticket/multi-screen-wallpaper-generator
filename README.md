@@ -5,7 +5,7 @@ For scenarios where you are using multiple monitors of different resolutions, th
 
 
 ## To use
-Simply download the exe and run. The application is wrapped to include python runtime and streamlit. Simply provide a blank email on first launch.
+Simply download the exe and run. The application is wrapped to include python runtime and streamlit. You may provide a blank email on first launch (just press enter).
 
 [Download Here](https://github.com/send-me-a-ticket/multi-screen-wallpaper-generator/releases/tag/pre-release)
 
