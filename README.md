@@ -1,7 +1,7 @@
 # Multi Screen Wallpaper Generator
-Generates single wallpaper image for multiple screen sizes & layouts.
+Generates single wallpaper image for multiple screen sizes & resolutions.
 
-For scenarios where you are using multiple monitors of different resolutions, and sizes, this tool can instantly generate wallpapers that look seamless and beautiful !
+For scenarios where you are using multiple monitors of different resolutions, layouts, and sizes, this tool can instantly generate wallpapers that look seamless and beautiful !
 
 ## To Use
 ### Windows Users
