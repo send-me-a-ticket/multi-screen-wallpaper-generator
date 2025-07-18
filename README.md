@@ -2,6 +2,7 @@
 Generates single wallpaper image for multiple screen sizes & resolutions.
 
 For scenarios where you are using multiple monitors of different resolutions, layouts, and sizes, this tool can instantly generate wallpapers that look seamless and beautiful !
+Additional features like size control, custom resolution and image processing modes help you find the perfect tune that works for any combination.
 
 ## To Use
 ### Windows Users
