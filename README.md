@@ -13,6 +13,7 @@ Simply download the exe and run. The windows binary is wrapped with python runti
 Install Python (3.9+). Make sure to install dependencies - numpy, streamlit and pillow:
 
 ```pip install numpy streamlit pillow```
+```streamlit run wallpaper_resize.py```
 
 ### Application
 <img width="1377" height="1542" alt="image" src="https://github.com/user-attachments/assets/0d5c0695-101f-45ba-96ca-44e62525a9fa" />
