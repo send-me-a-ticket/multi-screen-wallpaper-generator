@@ -24,7 +24,7 @@ Single ultrawide image
 ![0 (8)](https://github.com/user-attachments/assets/9c48a5fe-d5d0-40e6-80bc-139aa77886f5)
 
 
-### Output Example
+## Output Example
 when applied, the below image perfectly spans 3 monitors, where left and right ones are 4k, and center is QHD (see config options below).
 
 ![0 (8)_combined](https://github.com/user-attachments/assets/7acbf1be-4e2e-4517-9610-d235eadb550b)
