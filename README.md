@@ -19,10 +19,20 @@ Install Python (3.9+). Make sure to install dependencies - numpy, streamlit and 
 ```streamlit run wallpaper_resize.py```
 
 ## Application Preview
-<img width="1377" height="1542" alt="image" src="https://github.com/user-attachments/assets/0d5c0695-101f-45ba-96ca-44e62525a9fa" />
+<img width="918" height="1791" alt="image" src="https://github.com/user-attachments/assets/e6444462-bd88-4b1d-8439-070e86002e9e" />
+
+
+## Input Example
+Single ultrawide image
+
+![0 (8)](https://github.com/user-attachments/assets/9c48a5fe-d5d0-40e6-80bc-139aa77886f5)
+
 
 ### Output Example
-<img width="2316" height="1950" alt="image" src="https://github.com/user-attachments/assets/f83840af-067d-4238-b240-386335f4e1de" />
+when applied, the below image perfectly spans 3 monitors, where left and right ones are 4k, and center is QHD.
+
+![0 (8)_combined](https://github.com/user-attachments/assets/7acbf1be-4e2e-4517-9610-d235eadb550b)
+
 
 ### Badges
 ![Python](https://img.shields.io/badge/python-3.9+-blue)
