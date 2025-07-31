@@ -18,10 +18,6 @@ Install Python (3.9+). Make sure to install dependencies - numpy, streamlit and 
 
 ```streamlit run wallpaper_resize.py```
 
-## Application Preview
-<img width="918" height="1791" alt="image" src="https://github.com/user-attachments/assets/e6444462-bd88-4b1d-8439-070e86002e9e" />
-
-
 ## Input Example
 Single ultrawide image
 
@@ -33,6 +29,8 @@ when applied, the below image perfectly spans 3 monitors, where left and right o
 
 ![0 (8)_combined](https://github.com/user-attachments/assets/7acbf1be-4e2e-4517-9610-d235eadb550b)
 
+## Application Preview
+<img width="918" height="1791" alt="image" src="https://github.com/user-attachments/assets/e6444462-bd88-4b1d-8439-070e86002e9e" />
 
 ### Badges
 ![Python](https://img.shields.io/badge/python-3.9+-blue)
